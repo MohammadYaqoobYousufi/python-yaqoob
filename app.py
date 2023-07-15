@@ -1,6 +1,5 @@
-print('Hello world!')
-print('hello Ahmad')
-print('hello python')
-print('hello python a')
+if 5 == 5:
+    print('true')
 
-      
+    
+    
